@@ -7,7 +7,11 @@ This is a basic commend command I made, it pretty much allows the other users wi
 
 # Dependencies 
 discord.js 
-ms  
-fs 
+
+ms
+
+fs
+
 commend.json 
+
 discord.js-commando
