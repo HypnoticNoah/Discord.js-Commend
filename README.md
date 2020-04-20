@@ -6,3 +6,8 @@ This is a basic commend command I made, it pretty much allows the other users wi
  If you have any questions/suggestions or any problems with my work, feel free to contact me via email or message me on discord!
 
 # Dependencies 
+discord.js 
+ms  
+fs 
+commend.json 
+discord.js-commando
