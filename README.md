@@ -9,7 +9,7 @@ This is a basic commend command I made, it pretty much allows the other users wi
 
   Discord: *Neoptunium#1111*
 
-  Email: *hypnoticnoah@gmail.com*
+  Email: *neoptunium@gmail.com*
 
 # Dependencies 
 discord.js 
